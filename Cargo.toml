@@ -1,5 +1,5 @@
 [package]
-name = "lexer"
+name = "runtime-lexer"
 version = "0.1.0"
 edition = "2021"
 description = "A simple regex based lexer"
