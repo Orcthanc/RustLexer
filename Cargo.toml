@@ -6,6 +6,7 @@ description = "A simple regex based lexer"
 license = "MIT OR Apache-2.0"
 keywords = ["Parser", "Lexer", "lex"]
 categories = ["compilers", "parsing"]
+repository = "https://github.com/Orcthanc/RustLexer"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
